@@ -10,7 +10,7 @@ Third project of Udacity Fullstack Nano Degree program
 - [Configuration Summary](#configuration-summary)
 
 ## IP Address
-IP Address: [18.185.184.41.xip.io](18.185.184.41.xip.io)
+IP Address: [18.185.184.41.xip.io](http://18.185.184.41.xip.io)
 
 SSH port 2200
 
@@ -22,6 +22,7 @@ SSH port 2200
 3. postgresql
 4. sqlite3
 5. pip
+6. git
 
 ## Configuration Summary
 1. Add user: grader with disabled password
