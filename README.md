@@ -1,5 +1,6 @@
 # Linux Server Configuration
 Third project of Udacity Fullstack Nano Degree program
+A project about configuring a linux server and hosting the Catalog web app in a real server
 
 ## Table of Contents
 
